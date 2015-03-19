@@ -1,7 +1,7 @@
 kafka-chat
 ==========
 
-This project contains a simple producer-consumer for apache kafka. Testing
+This project contains a simple producer-consumer for apache kafka...
 
 References:
 http://kafka.apache.org/documentation.html#introduction
